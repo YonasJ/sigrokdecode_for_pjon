@@ -1,5 +1,5 @@
 # sigrokdecode_for_pjon
-Sigrok decoder and samples for PJON PDJL (Software Bit Bang). See image:
+Sigrok decoder and samples for [PJON](https://www.pjon.org/) PDJL [Software Bit Bang](https://www.pjon.org/SoftwareBitBang.php). See image:
 
 ![Screen shot of PJON PJDL decoder in sigrok](PJDL_ScreenShot.png)
 
